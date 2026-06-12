@@ -7,7 +7,7 @@ Data: 02/10/2025
 import os
 
 def renomear_questoes_simples():
-    pasta = "questoes-paginas-2a14"
+    pasta = "Separadas"
     
     if not os.path.exists(pasta):
         print(f"Pasta {pasta} não encontrada!")
